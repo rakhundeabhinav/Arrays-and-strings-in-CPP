@@ -1,3 +1,6 @@
+//Abhinav Rakhunde
+//PRN:24070123001
+
 #include<iostream>
 using namespace std;
 
@@ -6,7 +9,7 @@ int main() {
     cout << "Enter size of array: ";
     cin >> n;
 
-    int n1[100];  // n1 holds the array elements
+    int n1[100];  
 
     cout << "Enter " << n << " elements:" << endl;
     for(int i = 0; i < n; i++) {
@@ -15,8 +18,6 @@ int main() {
 
     int min = n1[0];
     int max = n1[0];
-
-    // Loop to find min and max
     for(int i = 1; i < n; i++) {
         if(n1[i] < min)
             min = n1[i];
@@ -29,3 +30,12 @@ int main() {
 
     return 0;
 }
+
+/* OUTPUT:
+Enter size of array: 6
+Enter 6 elements:
+1 2 3 4 5 6
+Minimum value: 1
+Maximum value: 6
+*/
+
