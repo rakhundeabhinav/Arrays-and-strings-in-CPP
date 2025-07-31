@@ -101,6 +101,22 @@ To study and implement various operations on arrays and strings using C++ progra
 
 4.If equal, it's a palindrome.
 
+### 🔎 4. Search Element in Array
+
+**Description**: Searches for a specific element in a predefined array.
+
+**Algorithm:**
+
+1.Define an array with initial values.
+
+2.Input the element to search (key).
+
+3.Loop through the array:
+
+If arr[i] == key, print index and exit.
+
+If not found, display a not found message.
+
 ## ✅ Conclusion
 
 This experiment helped me understand the fundamentals of **array and string manipulation** in C++. By writing and testing basic programs, I learned how to perform common operations like reversing, finding min/max, concatenation, and user input handling using both arrays and strings.
