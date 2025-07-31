@@ -28,6 +28,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### 🔁 1. Reverse Array
 
 **Description:** Reverses the elements of a given array.
+
 **Algorithm:**
 
 1. Input size `n` and array elements.
@@ -38,6 +39,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### ➕ 2. Sum and Average of Array
 
 **Description:** Calculates the sum and average of array elements.
+
 **Algorithm:**
 
 1. Input size `n` and array elements.
@@ -50,6 +52,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### 🔍 3. Minimum and Maximum in Array
 
 **Description:** Finds the smallest and largest numbers in an array.
+
 **Algorithm:**
 
 1. Input size `n` and array elements.
@@ -64,6 +67,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### 🔄 4. Reverse String
 
 **Description:** Reverses a string entered by the user.
+
 **Algorithm:**
 
 1. Input the string.
@@ -75,6 +79,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### 🔗 5. Concatenate Two Strings
 
 **Description:** Joins two strings into one.
+
 **Algorithm:**
 
 1. Input two strings.
@@ -85,6 +90,7 @@ To study and implement various operations on arrays and strings using C++ progra
 ### 🔁 7. Palindrome Check (String)
 
 **Description**: Checks if a given string is a palindrome (reads same forward and backward).
+
 **Algorithm:**
 
 1.Input string.
