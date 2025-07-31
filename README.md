@@ -101,7 +101,7 @@ To study and implement various operations on arrays and strings using C++ progra
 
 4.If equal, it's a palindrome.
 
-### 🔎 4. Search Element in Array
+### 🔎 8. Search Element in Array
 
 **Description**: Searches for a specific element in a predefined array.
 
