@@ -82,6 +82,18 @@ To study and implement various operations on arrays and strings using C++ progra
 3. Print the combined string.
 
 ---
+### 🔁 7. Palindrome Check (String)
+
+**Description**: Checks if a given string is a palindrome (reads same forward and backward).
+**Algorithm:**
+
+1.Input string.
+
+2.Reverse the string.
+
+3.Compare original and reversed strings.
+
+4.If equal, it's a palindrome.
 
 ## ✅ Conclusion
 
