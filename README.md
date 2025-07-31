@@ -83,16 +83,6 @@ To study and implement various operations on arrays and strings using C++ progra
 
 ---
 
-### 💬 6. Display String from User
-
-**Description:** Takes a string input and displays it.
-**Algorithm:**
-
-1. Use `getline()` to input string.
-2. Display the string using `cout`.
-
----
-
 ## ✅ Conclusion
 
 This experiment helped me understand the fundamentals of **array and string manipulation** in C++. By writing and testing basic programs, I learned how to perform common operations like reversing, finding min/max, concatenation, and user input handling using both arrays and strings.
