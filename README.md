@@ -1,10 +1,6 @@
 
 # 🧪 Experiment 7: Arrays and Strings in C++
 
-## 🔍 About
-
-This experiment introduces the use of **arrays** and **strings** in C++, focusing on basic operations like reversal, traversal, and manipulation.
-
 ---
 
 ## 📌 Aim
